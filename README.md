@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="20px" align="center" > oii, querem ver minhas coisas? 
+##  oii, querem ver minhas coisas? 
 
 #### 🌱 Estou atualmente cursando Desenvolvimento de Sistemas no Cotuca Colégio Técnico de Campinas.
 #### 🧾 Atualmente Estudando TypeScript, React, JavaScript, Java e SQL.
