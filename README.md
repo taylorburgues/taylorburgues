@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##  oii, querem ver minhas coisas? 
+##  oii, querem ver meus projetos? 
 
 #### 🌱 Estou atualmente cursando Desenvolvimento de Sistemas no Cotuca Colégio Técnico de Campinas.
 #### 🧾 Atualmente Estudando TypeScript, React, JavaScript, Java e SQL.
