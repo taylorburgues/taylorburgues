@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ##  oii, querem ver meus projetos? 
 
 #### 🌱 Estou atualmente cursando Desenvolvimento de Sistemas no Cotuca Colégio Técnico de Campinas.
-#### 🧾 Atualmente Estudando TypeScript, React, JavaScript, Java e SQL.
+#### 🧾 Atualmente Estudando Flutter, TypeScript, React, JavaScript, Java e SQL.
 
 ##
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <a href="https://github.com/cristiancaetano29">
+  <a href="https://github.com/taylorburgues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylorburgues&layout=compact&langs_count=7&theme=highcontrast"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taylorburgues&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
