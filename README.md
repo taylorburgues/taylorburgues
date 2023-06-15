@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 ##  oii, querem ver meus projetos? 
 
-#### 🌱 Estou atualmente cursando Desenvolvimento de Sistemas no Cotuca Colégio Técnico de Campinas.
-#### 🧾 Atualmente Estudando Flutter, TypeScript, React, JavaScript, Java e SQL.
+#### 🌱 Estou atualmente cursando Sistemas de Informação na PUCCampinas.
+#### 🌱 E ex alundo de Desenvolvimento de Sistemas no Cotuca Colégio Técnico de Campinas.
+#### 🧾 Atualmente Estudando Python, Flutter, TypeScript, React, JavaScript, Java e SQL.
 
 ##
 
